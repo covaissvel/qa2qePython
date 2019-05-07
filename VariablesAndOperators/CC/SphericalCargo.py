@@ -1,0 +1,1 @@
+side = float(input())
