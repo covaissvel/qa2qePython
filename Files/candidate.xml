@@ -1,0 +1,12 @@
+<candidateList>
+	<candidate>
+		<id>1</id>
+		<candidateName>Thana</candidateName>
+		<age>20</age>
+	</candidate>
+	<candidate>
+		<id>2</id>
+		<candidateName>JK</candidateName>
+		<age>25</age>
+	</candidate>
+</candidateList>

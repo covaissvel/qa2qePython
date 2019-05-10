@@ -1,0 +1,16 @@
+Aerosol - 38
+Churn - 50
+Plank - 55
+Slipsheet - 75
+Jerrican - 950
+Girder - 100
+Apsaraa - 76
+Jaan - 100
+ABC - 120
+Jain - 150
+Queen - 180
+King - 190
+Choco - 200
+Pie - 210
+Super - 230
+Vikram - 23

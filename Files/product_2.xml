@@ -1,0 +1,14 @@
+<productList>
+	<product>
+		<id>1</id>
+		<productName>Mobile</productName>
+		<cost>6000</cost>
+		<weight>200</weight>
+	</product>
+	<product>
+		<id>2</id>
+		<productName>Laptop</productName>
+		<cost>60000</cost>
+		<weight>2000</weight>
+	</product>
+</productList>

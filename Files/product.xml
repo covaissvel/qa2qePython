@@ -1,0 +1,20 @@
+<productList>
+	<product>
+		<id>1</id>
+		<productName>memorycard</productName>
+		<cost>425</cost>
+		<weight>5</weight>
+	</product>
+	<product>
+		<id>2</id>
+		<productName>pendrive</productName>
+		<cost>299</cost>
+		<weight>10</weight>
+	</product>
+	<product>
+		<id>3</id>
+		<productName>datacable</productName>
+		<cost>199</cost>
+		<weight>20</weight>
+	</product>
+</productList>
