@@ -16,5 +16,5 @@ shortCargo = int(myList[0][0])
 for items in myList:
     str1 = items.split(' ')
     if (int(str1[0]) <= shortCargo):
-        print str1[1]
+        print (str1[1])
 
